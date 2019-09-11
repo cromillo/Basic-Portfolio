@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+  text-align: left;
+}
+
+#fullName {
+  background-color: #4aaaa5;
+  color: white;
+  width: 20%;
+  height: 40%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+    top: 17px;
+    left: -8px;
+}
+
+h2 {
+  color: #4aaaa5;
+  background: white;
+  border-bottom: 1px solid lightgray;
+  padding: 20px 20px 5px 20px;
+  margin-bottom: 0;
+  border: 1px solid #cccccc;
+}
+
+img {
+  float: left;
+  padding: 20px;
+}
+
+#navig {
+  float: right;
+  font-family: arial;
+  font-size: 14px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+}
+
+
+section {
+  font-family: Arial, Helvetica, sans-serif;
+  color:`#777777;
+  font-size: 14px;
+  margin-bottom: 20px;
+  background: white;
+  padding: 10px 20px 20px 20px;
+  width: 960px;;
+}
+
+.background {
+  width: 100%;
+  height: 500px;
+  background: #777;
+}
+
+.content {
+  width: 960px;
+  overflow: auto;
+  clear: both;
+  color: black;
+  margin: 0 auto;
+}
+
+#full {
+  background: `#ffffff;
+}
