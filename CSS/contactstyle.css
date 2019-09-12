@@ -22,7 +22,7 @@
     color: #4aaaa5;
     background: white;
     border-bottom: 1px solid lightgray;
-    padding: 25px 20px 25px 90px;
+    padding: 25px 20px 25px 20px;
     margin-bottom: 0;
     border: 1px solid #cccccc;
     margin-top: 40px;
@@ -30,8 +30,7 @@
   
   img {
     float: left;
-    padding: 20px 20px 20px 20px;
-    width: 400px
+    padding: 35px 20px 20px 20px;
   }
   
   #navig {
@@ -51,13 +50,15 @@
     background: white;
     padding: 20px 20px 20px 20px;
     width: 960px;
+    text-align: center;
+    padding: 50px 0px 150px 390px;
   }
   
   .background {
     width: 100%;
-    height: 1000px;
+    height: 600px;
     background: #777;
-    background-image: url("img/cork-board.png");
+    background-image: url("../img/cork-board.png");
   }
   
   .content {
@@ -68,13 +69,6 @@
     margin: 0 auto;
   
   }
-
-.photos {background: white;
-    width: 960px;
-    height: 700px;
-    padding: 20px 20px 20px 70px;
-    overflow: visible;
-}
   
   #full {
     background: `#ffffff;
@@ -89,4 +83,5 @@
     background-color: #666666;
     color: white;
     border-top: 8px solid #4aaaa5;
+    
   }
